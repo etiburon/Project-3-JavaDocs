@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.sharetea.backend"},{"l":"com.sharetea.backend.Config"},{"l":"com.sharetea.backend.Controller"},{"l":"com.sharetea.backend.Entities"},{"l":"com.sharetea.backend.Repositories"},{"l":"com.sharetea.backend.Services"}];updateSearchResults();

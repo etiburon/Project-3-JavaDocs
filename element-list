@@ -1,0 +1,6 @@
+com.sharetea.backend
+com.sharetea.backend.Config
+com.sharetea.backend.Controller
+com.sharetea.backend.Entities
+com.sharetea.backend.Repositories
+com.sharetea.backend.Services
